@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.header_glasses {
+    font-weight: bold;
+    color: rgb(95, 40, 146);
+}
+
+.link {
+    background: rgb(210, 164, 231);
+    width: 250px;
+    height: 30px;
+    font-size: 23px;
+    border-radius: 10px;
+}
+
+canvas {
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px rgb(93, 60, 145);
+    margin-top: 200px;
+}

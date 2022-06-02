@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link{
+    background: rgb(210, 164, 231);
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: medium;
+    list-style: none;
+}
+
+.link:hover{
+    font-size: 20px;
+    color: rgb(71, 3, 88);
+    font-weight: bold;
+}
